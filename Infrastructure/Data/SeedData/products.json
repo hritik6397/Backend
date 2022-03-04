@@ -1,0 +1,553 @@
+//  [
+//        {
+//      "CategoryId": 1,
+//      "Description": "Luxury Fashionable Presents an Amazing Range of Men’s Casual Sports shoe range which signifies today's youth image. These uniquely designed shoes give you the comfort you need with the style you want. It comes in various ranges & varieties and hence fulfills the need of all.\n\nProduct Details:\nModel name: Adidas Sports Shoes\nIdeal for: Men\nQuality: 5A\nOccasion: Casual\nSole material: TPR\nClosure: Lace-ups\nSales Package: 1 Pair of shoes\npack of: 1\nStyle: casual shoes, sneaker shoes\n\nCare Instructions: Wipe gently with a dry cloth to remove any dried-on dirt and dust",
+//      "Name": "Adidas Men's Sneaker Blue /10",
+//      "PictureUrl": "images/products/AdidasMenSneakerBlue.jpeg",
+//      "Price": 1480.00,
+//      "ProductBrandId": 1,
+//      "ProductTypeId": 2,
+//     "RentedPrice": 100
+//    }
+//  ]
+//   {
+//     "CategoryId": 2,
+//     "Description": "NIKE AIRFORCE 1 SHADOW BLUE WOMEN’S CASUAL SHOES\nProduct Details:\n\nType: Casual Shoes.\nColor: Blue\nSole: Light Weight Sole\nSize: Standard Fitting 36 to 40 (EURO) size\nQuality: 7A Top Premium Quality (replica)\n\nHigh on style and comfort",
+//     "Name": "Nike Airforce 1 Women's Blue Casual Shoes",
+//     "PictureUrl": "images/products/NIKEAIRFORCESHOEWOMEN.jpeg",
+//     "Price": 4999.00,
+//     "ProductBrandId": 10,
+//     "ProductTypeId": 2,
+//     "RentedPrice": 415
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "TOMMY HILFIGER PREMIUM QUALITY FAUX LEATHER SHOES\nOur collection of men's moccasins & loafers combines exquisite workmanship with sophisticated designs. From the classic penny loafer to the elegant moccasin with tassels; add a serious twist of style to your outfits. Our selection of moccasins & loafers provides superior comfort with irresistible detailing.\n\nProduct Details\nVery High Tommy Hilfiger Shoes\nClosure: Lace: - Lace-ups\nShoe Width: Medium\nOuter Material: Faux Leather Material\nSole Material: Durable TPR Comfortable Sole\nIdeal for: - Men",
+//     "Name": "Tommy Hilfiger Faux Leather official Shoes",
+//     "PictureUrl": "images/products/tommyhilfigershoe.jpeg",
+//     "Price": 2799.00,
+//     "ProductBrandId": 11,
+//     "ProductTypeId": 2,
+//     "RentedPrice": 219
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "The bellies for women are perfect for many occasions Whether you are going to work or an interview, going to a party, or dating, these belly shoes will take your arrival at your destination perfectly. This pair of Bellies is made up of fine quality material and will get you noticed for all good reasons. This pair features an attractive design.\n\nComes with a brand box\nSuper Amazing Quality\n3 Colors Available\nit's a replica belly shoe",
+//     "Name": "Gucci Premium Quality Belly",
+//     "PictureUrl": "images/products/guccibellywomen.jpeg",
+//     "Price": 1050.00,
+//     "ProductBrandId": 24,
+//     "ProductTypeId": 2,
+//     "RentedPrice": 100
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Our Sleepers Protect Your Feet\nSizes: 6,7, 8, 9, 10\nType: Flip Flops\nSole: Air Mix\nSlipper Width: Regular\nOuter Material: Rexine\nHeel type: flats\nThe product color and look & feel may vary from the visual representation on the Website.",
+//     "Name": "Puma Slip on Flip Flops",
+//     "PictureUrl": "images/products/PumaSlipOnMen.png",
+//     "Price": 699,
+//     "ProductBrandId": 9,
+//     "ProductTypeId": 2,
+//     "RentedPrice": 105.25
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Sizes: 7, 8, 9, 10\n10A Quality\nShoe Width: Medium\nUpper Material: Leather\nSole Material: TPR\nLifestyle: Everyday Use\nCare Instructions: Wipe with a clean and dry cloth when needed\nVery High-Quality Faux croco Leather upper Material \n\nFASHION TIPS\nThe Shoes can be paired with jeans, chinos, and casuals of your choice for a casual occasion. They can be worn on day trips, casual occasions, and outings with your favorite Loafers for a complete look.",
+//     "Name": "Gucci Embossed Mocassins Official Shoes",
+//     "PictureUrl": "images/products/GucciMenOfficialShoes.jpeg",
+//     "Price": 2899.00,
+//     "ProductBrandId": 24,
+//     "ProductTypeId": 2,
+//     "RentedPrice": 225.5
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Luxury Fashionable Presents an Amazing Range of Men’s Casual Sports shoe range which signifies today's youth image. These uniquely designed shoes give you the comfort you need with the style you want. It comes in various ranges & varieties and hence fulfills the need of all.\n\nProduct Details\nModel name: Nike sports shoes\nIdeal for: Men\nOccasion: Casual\nSole material: TPR\nClosure: Lace-ups\nSales Package: 1 Pair of shoes\npack of: 1\nStyle: casual shoes, sports shoes\n\nCare Instructions: Wipe Gently With A Dry Cloth To Remove Any Dried-on Dirt And Dust",
+//     "Name": "Nike Grey Sports Shoes",
+//     "PictureUrl": "images/products/NikeGreySportShoe.jpeg",
+//     "Price": 850,
+//     "ProductBrandId": 10,
+//     "ProductTypeId": 2,
+//     "RentedPrice": 112
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Shoes that you can walk in, glide in and dance in! Just like your juttis but higher.\nIntroducing the limited edition \nFizzy Heels\n - The most comfortable pair of heels that you could ask for, great for wide feet and with double padding for double the comfort. \nA versatile pair of heels with scintillating details, almost like the stars are 'dancing in the dark'!\n\nDetails:\n\nUpper - Specially designed with intricate Hand Embroidery \nPadding - Double Cushioning for comfort\nSole - Italian Sole\nInsole - Special Quote printed on the insole of the heels\nHeel - 2.5 inches\nMake: Handcrafted in India\n\nCare: Super easy to maintain! Each piece is hand embroidered with a lot of care.  For more information you can check out our Care section!",
+//     "Name": "Bunai Ethnic Women Footwear",
+//     "PictureUrl": "images/products/EthnicWomenFootwear.jpeg",
+//     "Price": 4890.00,
+//     "ProductBrandId": 13,
+//     "ProductTypeId": 2,
+//     "RentedPrice": 399
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Product Details:\n\nWipe with a clean, dry cloth when needed\n1-month warranty against manufacturing defects\nRegular Fit\nPU upper\nEVA sole\nNet Qty : 1 pair(2 Nos)\nCountry Of Origin : China\nCommodity : Women's Flip Flop & Slippers",
+//     "Name": "TOMMY HILFIGER Logo Embossed Slides",
+//     "PictureUrl": "images/products/TommyHilfigerWomenFlipFlop.jpeg",
+//     "Price": 999,
+//     "ProductBrandId": 11,
+//     "ProductTypeId": 2,
+//     "RentedPrice": 100
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Giving all the luxury shoes a run for its money. This handmade mojaris is the best designer shoe ever made. Stay boyish with these shoes which add more spunk and excitement to your personality. The perfect mojaris for any occasion, this classic pair can lift up your style statement.\n\nKey Features:\n\nMaterial: PU\nExtra Padded Insole\nTPR sole\nLining: PU\nHand embroidered to perfection\nCare Instructions: Do not wash. Clean the surface dirt with a dry cloth",
+//     "Name": "Cream Zardozi Embroidered Handmade Magenta Mojaris",
+//     "PictureUrl": "images/products/cream-zardozi-embroidered-handmade-magenta-mojaris.jpeg",
+//     "Price": 2691.00,
+//     "ProductBrandId": 21,
+//     "ProductTypeId": 2,
+//     "RentedPrice": 205
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "VERY PREMIUM QUALITY SAME AS ORIGINAL LEATHER QUALITY WITH FULL BRANDING\n\nProduct Details:\nHigh-quality shoulder bags\nFive color varients:-Black, Red, Pink, Brown, White\nComes with Inner Branding and 12A Quality\nInner Sueding With Branded Dust Cover & Card\nSuper Amazing Quality Similar to Original\nVery fine leather size 7\"x10\" approx.",
+//     "Name": "Gucci Marmont latest pink leather camera sling bag",
+//     "PictureUrl": "images/products/GucciMarmontlatestleathercamerasling.jpeg",
+//     "Price": 2999.00,
+//     "ProductBrandId": 24,
+//     "ProductTypeId": 3,
+//     "RentedPrice": 355.25
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Product details\nAccessorise your ensemble in style with this brown wallet from Van Heusen. This meticulously handcrafted piece comes with multiple card slots and bill compartments to suit your needs.\n\nBrand : Van Heusen\nPattern : Textured\nOccasion : Casual\nColor : Brown\nAccessories : Wallet\nProduct Length : 23 cm\nProduct Height : 9 cm\nNet Quantity : 1 N",
+//     "Name": "Vanheusen brown wallet",
+//     "PictureUrl": "images/products/Vanheusenbrownwallet.jpeg",
+//     "Price": 1099.00,
+//     "ProductBrandId": 3,
+//     "ProductTypeId": 3,
+//     "RentedPrice": 119
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "This black floral embellished shoulder bag features a gold-tone chain shoulder strap, a foldover top with magnetic closure and an internal logo plaque.\n\nProduct measurements:\n\nWidth\t: 22 cm\nHeight\t: 14 cm\nDepth\t: 7 cm\nStrap\t: 57 cm",
+//     "Name": "Dolce & Gabbana floral embellished shoulder bag",
+//     "PictureUrl": "images/products/Dolce&Gabbanabags.jpeg",
+//     "Price": 3769.00,
+//     "ProductBrandId": 20,
+//     "ProductTypeId": 3,
+//     "RentedPrice": 355.55
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "We make our bags out of the finest genuine leather. To keep it looking good over time, clean with a soft dry cloth. Leather stained by cleaning is not covered under our warranty. Will your leather weather the elements? Watch out for water and don’t let it sunbathe.\n\nProduct Details\n\nMaterial : Cactus Leather\nInterior Material : ViralOff® Recycled Polyester\nInterior Details : 1 Note Compartment, 1 ID Window, 2 Credit Card Slots, 4 Slide Pockets\nMeasurements : 8.89cm L x 1.27cm W x 10.16cm H\nSilhouette : Front Pocket Wallet-Bifold\nPrimary Colour: Green\nAdditional Product Features: Vegan",
+//     "Name": "Joshua Vegan Cactus Green Front Pocket Wallet",
+//     "PictureUrl": "images/products/FrontPocketWalet.jpeg",
+//     "Price": 499,
+//     "ProductBrandId": 22,
+//     "ProductTypeId": 3,
+//     "RentedPrice": 99
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "This product has been crafted by hand and may have slight irregularities or imperfections in color or embellishment. These irregularities are the result of the human involvement in the process and add to the finished products charm while ensuring you have a one-of-a-kind piece.\n\nMore Details:\n\nMEASUREMENTS : Length - 66.04cm, Width - 40.64cm\nCOLOR : Gold\nWEIGHT(GRAMS) : 500\nMATERIAL(S) : Silk, Sublime bugle beads, Cultured drop pearls and Fine gold and silver threads\nCARE : Store in dust bag. Keep away from moisture\nCOUNTRY OF ORIGIN : INDIA",
+//     "Name": "Gold Embroidered Silk Clutch with Beads and Pearls",
+//     "PictureUrl": "images/products/EmbroideredBag.jpeg",
+//     "Price": 5300.00,
+//     "ProductBrandId": 13,
+//     "ProductTypeId": 3,
+//     "RentedPrice": 500
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "BRAND - ALLEN SOLLY\nHIGH QUALITY - PURE LEATHER WALLET WITH LOGO\n\nMORE DETAILS :\n\n1 COIN BOX\n2 MONEY POCKET\n4 CARD SLOTS\n\n100% PURE LEATHERS WALLET\nFREE BRAND BOX",
+//     "Name": "Allen Solly Leather Wallets",
+//     "PictureUrl": "images/products/AllenSollyWallet.png",
+//     "Price": 349.99,
+//     "ProductBrandId": 2,
+//     "ProductTypeId": 3,
+//     "RentedPrice": 49
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "BURBERRY PRORSUM CRUSH HOUSE CHECK LEATHER HANDBAG\n\nProduct Details:\n\nHigh and Superb 12a Quality\nDouble top handle\nCenter zip compartment\nMaterial : Vegan leather\nComes with full branding\nSize : Height : 11, width : 14 (inches)     \nCare :  Store in the dust bag provided. Use a clean, dry cloth to dust the surface. Keep away from liquids.",
+//     "Name": "Burberry Red Prorsum Women's Handbags",
+//     "PictureUrl": "images/products/BurberryWomenBag.jpeg",
+//     "Price": 2999.00,
+//     "ProductBrandId": 4,
+//     "ProductTypeId": 3,
+//     "RentedPrice": 299
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Product Details:\n\nMaterial : Leather\nPattern : Textured\nWater Resistant : Not Water Resistant\nPockets : Yes\nClosure : Foldover\nCare Instructions : Wipe With Dry Cloth\nPack Contains : 1 Wallet",
+//     "Name": "Tommy Hilfiger\nStellar Mens Leather Global Coin Wallet Red & White & Blue",
+//     "PictureUrl": "images/products/TommyHilfigerWallet.png",
+//     "Price": 499,
+//     "ProductBrandId": 11,
+//     "ProductTypeId": 3,
+//     "RentedPrice": 109.05
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Product Details:\n\nAvoid the chance of a fashion faux pas on your special day and get this symmetric blue suit for the perfect formal look!\n\nColor: Blue\nFabric: Terry Rayon\nGarment Type: Men Blazers Suits\nThe Product Price is inclusive of: 1 Shirt, 1 Tie, 1 Waist Coat,1 Pocket Square,1 Blue Lower, 1 Blazerand 1 Brooch\nCare: Dry Clean",
+//     "Name": "Symmetric Blue suit",
+//     "PictureUrl": "images/products/symmetric-blue-suit.jpeg",
+//     "Price": 9999.00,
+//     "ProductBrandId": 6,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 1999.00
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Product details :\n\nNavy Blue & White Printed Sherwani and Churidar With Dupatta\nNavy Blue Floral Printed Sherwani, has mandarin collar, long sleeves\nWhite solid churidar, has drawstring closure\nNavy Blue Printed dupatta has no border",
+//     "Name": "Manyavar Men Navy Blue & White Printed Sherwani Set with Dupatta",
+//     "PictureUrl": "images/products/SherwaniSet.jpeg",
+//     "Price": 16999.00,
+//     "ProductBrandId": 7,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 5999.00
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Product Details:\n\nDon this marvellous rani and maroon velvet lehenga and make your bridal occasion breath-takingly grand! Set in premium quality velvet, featuring exquisite embroidery, this Alia Bhatt lehenga is nothing short of a work of art. Wear this charming outfit and impress all!\n\nColor : Rani\nWork : Machine Embroidery\nFabric : Velvet\nEmbroidery : Machine Embroidery\nGarment Type : Lehenga\nThe Product Price is inclusive of : Lehenga, Blouse and Dupatta",
+//     "Name": "Manyavar Marvellous Rani and Maroon Lehenga",
+//     "PictureUrl": "images/products/marvellous-rani-and-maroon-lehenga.jpeg",
+//     "Price": 39999.00,
+//     "ProductBrandId": 6,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 9999.00
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Product Details:\n\nGown Back Neck : V-Neck\nGown Color : Razzmic Berry Purple\nGown Fabric :\tNet\nGown Front Neck : V-Neck\nGown Length :\t Full Length\nGown Sleeves : Sleeveless\nGown Style : Flared\nGown Work : Sequins & Cutdana Work\nGown Zip : Side Zip",
+//     "Name": "Razzmic Berry Purple Sequins Embroidered Net Indowestern Gown",
+//     "PictureUrl": "images/products/PurpleGown.jpeg",
+//     "Price": 56390.00,
+//     "ProductBrandId": 7,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 5999.00
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "PRODUCT DETAILS :\nOlive Green brand logo print sweatshirt, has a round neck, long sleeves, ribbed hem\n\nSize & Fit : The model (height 6') is wearing a size M\nMaterial & Care : 60% cotton, 40% polyester , Machine Wash\nSleeve Length : Long Sleeves\nNeck : Round Neck\nPattern : Solid\nLength : Regular\nType : Pullover\nPrint or Pattern Type : Solid\nOccasion : Casual\nHemline : Ribbed",
+//     "Name": "Allen Solly Sport\nMen Green Brand Logo Print Sweatshirt",
+//     "PictureUrl": "images/products/AllenSollyOliveSweatshirt.png",
+//     "Price": 899,
+//     "ProductBrandId": 2,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 199
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "PRODUCT DETAILS :\n\nPattern : All over\nPurity :\tPure\nSaree Color : Dark Green\nSaree Fabric :\tBanarasi Silk\nSaree length :\t5.5 Mtrs\nSaree Work : Woven & Zari Woven\nSaree Border Color : Gold\nSaree Border Fabric :\tSilk\nSaree Border Work : Zari Woven\nSaree Pallu Color : Gold\nSaree Pallu Work : Zari Woven\nBlouse Fabric : Silk/ 80 cm\nBlouse Length : 80 cm\nBlouse pattern : Unstitched\nSaree Blouse work : Zari Woven\nSaree Blouse Color : Dark Green & Gold",
+//     "Name": "BIBA Dark Green Zari woven Banarasi Silk Saree",
+//     "PictureUrl": "images/products/GreenSaree.jpeg",
+//     "Price": 50900.00,
+//     "ProductBrandId": 12,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 2999.00
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Product Details:\n\nBottom Color : Off-White\nBottom Fabric : Cotton Silk\nBottom Style :\tChuridar\nSherwani Collar : Mandarin Collar\nSherwani Colour : Off-White\nSherwani Fabric : Italian\nSherwani Sleeves : Long Sleeves\nSherwani Slit :\t Front & Side Slits\nSherwani Style : Straight Cut\nSherwani Work : Pearl & Stone Work",
+//     "Name": "KRAFT INDIA Off-White Pearl Embroidered Italian Wedding Sherwani",
+//     "PictureUrl": "images/products/whiteSherwani.jpeg",
+//     "Price": 27200.00,
+//     "ProductBrandId": 8,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 1599.00
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Product Details:\n\nCraft : Embroidered\nLehenga Color : Military Green\nLehenga Fabric : Crepe\nLehenga Length : Floor Length\nLehenga Style : Flared\nLehenga Work : Abla, Zardois, Zari, Stone, Gota, Mirror & Sequins Work\nPurity :\tPure\nDupatta Border : Gold\nDupatta Color : Military Green\nDupatta Fabric : Net\nDupatta Work : Gota, Mirror, Zari, Resham & Lace Work\nLehenga Choli : Readymade\nLehenga Choli Back Neck Pattern : Leaf Neck\nLehenga Choli Color : Military Green\nLehenga Choli Fabric :\t Silk\nLehenga Choli Front Neck Pattern : Leaf Neck\nLehenga Choli Length : 38 cm\nLehenga Choli Sleeves : Sleeveless\nLehenga Choli Work :\tAbla, Zardosi, Zari, Stone, Gota, Mirror & Sequins Work\nLehenga Choli Zip : Side Zip\nLehenga Lining Fabric : Crepe",
+//     "Name": "KRAFT INDIA Military Green Abla Embroidered Crepe Designer Lehenga",
+//     "PictureUrl": "images/products/MehndiLehnga.jpeg",
+//     "Price": 21690.00,
+//     "ProductBrandId": 8,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 1299.05
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Product Details:\n\nThis designer suit is intricated with zardozi, stone, sequins and zari work featuring a layered style. This beautiful hand craftwork will take 5-15 days to complete the work. Crafted buttons will add more glam to the style. Available with a matching italian unstitched bottom fabric for an exquisite look.\n\nBottom Color :\t Wine\nBottom Fabric : Italian\nSuit Collar : Mandarin Collar\nSuit Colour : Wine\nSuit Fabric : Italian\nSuit fit : Slim Fit\nSuit Sleeves : Full Sleeves\nSuit Work : Zardosi, Stone, Sequins & Zari Work",
+//     "Name": "BIBA Wine Zardosi Embroidered Italian Jodhpuri Suit",
+//     "PictureUrl": "images/products/WineSuit.jpeg",
+//     "Price": 18900.00,
+//     "ProductBrandId": 12,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 1500.00
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Product details:\n\nOccasion : Casual\nMaterial : Cotton\nPattern : Stripes\nNeckline Type : Collar Neck\nSleeve Type : Half Sleeves\nCare Instructions : Machine Wash\nPack Contains : 1 T-shirt",
+//     "Name": "U.S. POLO ASSN. Men Blue Red Striped Polo Collar Applique Slim Fit T-shirt",
+//     "PictureUrl": "images/products/MensCasualWear.png",
+//     "Price": 1398.00,
+//     "ProductBrandId": 5,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 245
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Gray Taffeta Silk Multi Colored Thread Work Bridal Lehenga With Blouse And Net Dupatta\n\nProduct details:\n\nLehenga : Two-tone Tafeta Silk\nBlouse : Two-tone Tafeta Silk\nDupatta : Nylon Mono Net\nWork : Multi Embroidery Work,Chain Stitch Work,Thread Work\nInner : Satin Silk\nType : Semi Stitched",
+//     "Name": "Multi Colored Bridal Lehenga",
+//     "PictureUrl": "images/products/Multi-Colored-Thread-WorkBridal-Lehenga.jpeg",
+//     "Price": 1999.00,
+//     "ProductBrandId": 13,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 799
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Product details:\n\nContrast Panel Sports Tee With Thumb Holes & Leggings",
+//     "Name": "PUMA Sports Wear",
+//     "PictureUrl": "images/products/WomenSportsWear.jpeg",
+//     "Price": 1780.00,
+//     "ProductBrandId": 9,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 599
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "When you place an order for this product, you’re agreeing to the below\n\nTerms  and conditions:\n\n1. This product is made to order after we receive your order\n2. It is subjected to availability\n3. Making time can vary from 3 days upto 3 weeks depending upon the design\n4. Kindly avoid placing an order if your order is time sensitive\n5. Our usual shipping conditions do not apply to the above item.\n6. Colors can be customised with extra costs and making time , please get in touch with your requirements if you wish to customise.\n7. If the particular model is not available after you place an order, we shall get in touch with you immediately and you can choose from options like a refund, replacement of color/product etc.\n\nPRODUCT SPECIFICATIONS\nMaterial: brass base \nFinish : Semi matte\nWeight : moderate",
+//     "Name": "Tanishq look alike choker",
+//     "PictureUrl": "images/products/goldChocker.jpeg",
+//     "Price": 55950.00,
+//     "ProductBrandId": 15,
+//     "ProductTypeId": 4,
+//     "RentedPrice": 9999.00
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "ABOUT THE ITEM:\n\nPRODUCT COLOUR : Gold , Silver And Rose Gold\nMATERIAL USED : Brass\nOCCASION : Party\nSTYLES OF JEWELLERY : Statement\nPACK CONTAINS : Pair of Earring\nPRODUCT WEIGHT (Gms) : 100\nPRODUCT LENGTH (in CM) :  30\nPRODUCT WARRANTY : No Warranty\n\nCARE TIP: Shopay Jewellery is designed to last for many years to come but all precious jewellery will naturally tarnish and look dull if proper care has not been taken. Always protect your jewellery from knocks, scratches, chemicals and heat/cold to minimize these effects. We are not responsible for how you wear your jewellery. Scratches and knocks are part of normal signs of everyday wear.",
+//     "Name": "DIAMOND CHOKER NECKLACE",
+//     "PictureUrl": "images/products/DiamondSet.jpg",
+//     "Price": 20099.00,
+//     "ProductBrandId": 17,
+//     "ProductTypeId": 4,
+//     "RentedPrice": 1999.00
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Product Information:\n\nStylist’s Notes:\n Wear it to a shopping trip with your friends, for a coffee date with your loved one or just put it on to add some sass to any regular outfit. \n\nThe Extension chain helps you to adjust the size of the bracelet according to your wrist size.\n\nWhat's Included:\n1 Bracelet\nMaterial:\n1. AAA Austrian crystals\n2. Coloured faux cat-eye stones\n3. White enamel work\n4. 18 K rose gold plating\n5. High-grade lead and nickel free environmental alloy\nSize : Bracelet chain length: 17cm + 3.5 cm extension chain",
+//     "Name": "Foxy BlueStone Bracelet",
+//     "PictureUrl": "images/products/bluestonebracelet.jpeg",
+//     "Price": 2000.55,
+//     "ProductBrandId": 16,
+//     "ProductTypeId": 4,
+//     "RentedPrice": 399
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "DESCRIPTION\n\n92.5 Silver,22kt Gold Plated Bangles Studded with semi Precious Stones.\n\nJEWELLERY CARE:\nSilver jewels have a soft luster, and so they can get tarnished easily if not taken care of. Follow these simple steps to care your jewellery just like how you care for yourself :)\n\n1. Do not wear when sweating\n2. Avoid perfume, lotion or sunscreen after wearing the jewel.\n3. Do not wear when washing.\n4. Avoid collide, grind or fire.\n5. Do not wear when sleeping.\n6. Put inside a plastic box when not in use. Avoid velvet box.\n7. Do not clean with chemicals.\n8. Use soft cloth to clean.",
+//     "Name": "CHAYA PAIR BANGLES",
+//     "PictureUrl": "images/products/GoldBangles.jpeg",
+//     "Price": 35816.00,
+//     "ProductBrandId": 19,
+//     "ProductTypeId": 4,
+//     "RentedPrice": 3995.00
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "DESCRIPTION\n92.5 Silver, Gold Plated Necklace set studded with Kundan.\n\nNecklace:Height-220 mm width-195 mm\nEarrings:Height-28 mm width-28 mm\n\nJEWELLERY CARE:\nSilver jewels have a soft luster, and so they can get tarnished easily if not taken care of. Follow these simple steps to care your jewellery just like how you care for yourself :)\n\n1. Do not wear when sweating\n2. Avoid perfume, lotion or sunscreen after wearing the jewel.\n3. Do not wear when washing.\n4. Avoid collide, grind or fire.\n5. Do not wear when sleeping.\n6. Put inside a plastic box when not in use. Avoid velvet box.\n7. Do not clean with chemicals.\n8. Use soft cloth to clean.",
+//     "Name": "PEACOCK KUNDAN NECKLACE SET",
+//     "PictureUrl": "images/products/KundanNecklaceSet.jpeg",
+//     "Price": 86500.00,
+//     "ProductBrandId": 15,
+//     "ProductTypeId": 4,
+//     "RentedPrice": 15099.00
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Description\n\n92.5 Silver, 22Kt Gold Plated Rings.\nSize : 14\nJEWELLERY CARE:\nSilver jewels have a soft luster, and so they can get tarnished easily if not taken care of. Follow these simple steps to care your jewellery just like how you care for yourself :)\n\n1. Do not wear when sweating\n2. Avoid perfume, lotion or sunscreen after wearing the jewel.\n3. Do not wear when washing.\n4. Avoid collide, grind or fire.\n5. Do not wear when sleeping.\n6. Put inside a plastic box when not in use. Avoid velvet box.\n7. Do not clean with chemicals.\n8. Use soft cloth to clean.",
+//     "Name": "A PLEASANT RING",
+//     "PictureUrl": "images/products/GoldRing.jpeg",
+//     "Price": 3200.00,
+//     "ProductBrandId": 17,
+//     "ProductTypeId": 4,
+//     "RentedPrice": 599.99
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Description:\nSemi precious designer jewellery at affordable price \nJEWELLERY CARE:\nSilver jewels have a soft luster, and so they can get tarnished easily if not taken care of. Follow these simple steps to care your jewellery just like how you care for yourself :)\n\n1. Do not wear when sweating\n2. Avoid perfume, lotion or sunscreen after wearing the jewel.\n3. Do not wear when washing.\n4. Avoid collide, grind or fire.\n5. Do not wear when sleeping.\n6. Put inside a plastic box when not in use. Avoid velvet box.\n7. Do not clean with chemicals.\n8. Use soft cloth to clean.",
+//     "Name": "Impressive Bridal Jewellery Set",
+//     "PictureUrl": "images/products/Bridaljwelleryset.jpg",
+//     "Price": 59500.00,
+//     "ProductBrandId": 16,
+//     "ProductTypeId": 4,
+//     "RentedPrice": 1599.00
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Description\nInnovative products bring joy, create new lifestyle and pave the way for related economies - especially, if they have been developed by CASIO.\n\nCasio\nFor Men\nOriginal Model\nEFR 556\nFeature-Working chronograph, 30 min on left, 1 min stop watch to bottom & stainless steel Gold bezel with clear look gold-White dial, high quality metal belt & Powerful Original Battery Operated Quartz Chronograph Machinery",
+//     "Name": "Casio New Edifice DualTone Collection For Men",
+//     "PictureUrl": "images/products/CasioWatchMen.png",
+//     "Price": 5999.00,
+//     "ProductBrandId": 23,
+//     "ProductTypeId": 4,
+//     "RentedPrice": 1299.80
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Description\nMetal Belt Watches, Products, Watches\n\nFossil\n1. All Chrono Working\n2. Two Tone Chain\n3. Blue Dial\n4. Japanese Machinery",
+//     "Name": "Fossil FS-5024 Watch For Men",
+//     "PictureUrl": "images/products/FossilWatch.jpeg",
+//     "Price": 10099.00,
+//     "ProductBrandId": 22,
+//     "ProductTypeId": 4,
+//     "RentedPrice": 1599.00
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "This gorgeous semi-stitched Embroidered Bridal Lehenga Set features rich culture and heritage. The evergreen combination gives an elegant rich look. This is made in India with love from Exclusiva...\n\nSet: Top, Bottom, and Dupatta\nWork: Multicolor Thread Embroidery, Sequin Work\n\nMaterial: Top- Velvet, Bottom-Velvet, Dupatta- Soft Net\n\nMax Size- Up to 44 inches Bust and Waist Size",
+//     "Name": "Maroon Shade Semi Stitched Bridal Lehenga Set",
+//     "PictureUrl": "images/products/maroonwedding.jpeg",
+//     "Price": 46840.50,
+//     "ProductBrandId": 7,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 9999.00
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "This gorgeous stitched free-size Dress features rich culture and heritage. The evergreen combination gives an elegant rich look. This is made in India with love from Exclusiva...\n\nSet: Top, Bottom, Dupatta\nPattern/Type: Embroidery\nMaterial: Top-Tafeta Butti; Inner- Santoon, Bottom- Santoon, Dupatta- Patola Print\n\nSize-38 (M), 40(L), 42(XL) to 44(XXL)\n\nMaximum Kameez/Top Length: 40 inches,",
+//     "Name": "Yellow Shade Long Embroidered Dress",
+//     "PictureUrl": "images/products/YellowDress.jpeg",
+//     "Price": 7086.45,
+//     "ProductBrandId": 14,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 999.9
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Description\nStylish mint green color wedding sherwani on raw silk is something very striking. Ornamented gracefully with thread,bead and sequins embroidery. Heavily embroidered stylish cut and aesthetic buttons creates an immaculate look, perfect for a royal wedding. Available with cream colored cotton silk churidar. Can be paired with matching safa and traditional mojari to enhance your charisma and poise\n\nProduct Details:\n\nBottom Color :\tCream\nBottom Fabric : Cotton Silk\nBottom Style :\tChuridar\nSherwani Collar : Stand Collar\nSherwani Colour : Mint Green\nSherwani Fabric : Raw Silk\nSherwani Sleeves : Full Sleeves\nSherwani Slit :\tFront & Side Slit\nSherwani Style : Wedding\nSherwani Work : Thread,Bead & Sequins Work\nStole Fabric : Silk\nStole Work : Sequins Work",
+//     "Name": "Mint Green Bead Embroidered Raw Silk Wedding Sherwani",
+//     "PictureUrl": "images/products/mintgreensherwani.jpeg",
+//     "Price": 66550.00,
+//     "ProductBrandId": 14,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 3999.99
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Product Detaisl:\n\nBottom Color :\tBlack\nBottom Fabric : Cotton Silk\nBottom Style :\tChuridar\nKurta Collar : Mandarin Collar\nKurta Colour : Navy Blue\nKurta Fabric : Silk\nKurta Sleeves : Long Sleeves\nKurta Slit : Side Slits\nKurta Style : Straight Cut\nKurta Work : Applique & Stone Work\nWaistcoat collar : Mandarin Collar\nWaistcoat Fabric : Silk\nwaistcoat work : Applique & Stone Work",
+//     "Name": "Navy Blue Applique Embroidered Silk Waistcoat Kurta",
+//     "PictureUrl": "images/products/modijacket.jpeg",
+//     "Price": 21190.00,
+//     "ProductBrandId": 18,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 2599.00
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "PRODUCT DETAILS :\n \n1. Tight fit\n2. Elastic waist\n3. Soft peached fabric\n4. Moisture absorbing\n5. Mesh inserts\n6. High rise\n7. Seven-eighth length\n8. Anti-odour gusset\n9. Interlock\n10. Primegreen\n\nHIGH-RISE TIGHTS WITH A SOFT FEEL AND BUILT-IN VENTILATION.\nSink deeper into Horse Pose. Open your heart in Supported Cobbler's Pose. Let the work take effect in these adidas training tights. AEROREADY moves moisture away from your skin so there's no holding back. Anti-odour fabric with Polygiene technology keeps you feeling fresh.\n\nSize & Fit : The model (height 5'8) is wearing a size S\nMaterial & Care :79% Recycled Polyester and 21% Elastane , Machine Wash",
+//     "Name": "ADIDAS\nWomen Blue Solid Yoga Power Mesh 7/8 Tights",
+//     "PictureUrl": "images/products/AdidasSports.jpeg",
+//     "Price": 2144.00,
+//     "ProductBrandId": 1,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 599
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Product Details:\nWho needs a boring shirt when you can have something stylish and whimsical? This men's long-sleeved dress shirt features an all-over floral print that will add some flair to your outfit. This summer floral shirt is designed with lightweight rayon fabric, has a button-down placket with a spread collar, and comes in a variety of floral patterns.\n\nDescription:\nPurpose or Occasion to wear:\n-Casual day out\n-Weekend look\n-Summer trends\n-Best for holidays",
+//     "Name": "Maroon Rose Printed Full Sleeves Shirt",
+//     "PictureUrl": "images/products/MaroonMen.jpeg",
+//     "Price": 649,
+//     "ProductBrandId": 4,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 129
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Description:\n\nTop: Butterfly Mono Net\nBottom: Butterfly Mono Net\nDupatta: Butterfly Mono Net\nWork: Embroidery, Sequence Work\nInner: Micro Cotton\nType: Full Stitched",
+//     "Name": "Cream Butterfly Mono Net Embroidery Work Sharara Suit",
+//     "PictureUrl": "images/products/Creamsuit.jpeg",
+//     "Price": 1899.00,
+//     "ProductBrandId": 13,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 299
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Product details:\n\nMaterial : Cotton\nPattern : Solid/Plain\nOccasion : Casual\nNeckline Type : Collar Neck\nSleeve Type : Full Sleeves\nCare Instructions : Hand Wash Cold, Use Only Non-chlorine Bleach, Cool Iron If Needed, Line Dry, May Be Dry Cleaned\nPack Contains : 1 Shirt",
+//     "Name": "dash and dot\nWhite Shirts (L)",
+//     "PictureUrl": "images/products/casualsForMen.png",
+//     "Price": 3490.00,
+//     "ProductBrandId": 3,
+//     "ProductTypeId": 1,
+//     "RentedPrice": 899
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Details:\n\nDescription: It has 1 pair of Sports Shoe\nMaterial; Outer Layer: lycra, Sole: airmix\nClosure: slip on\nSize: UK/ IND Size: 6, 7, 8, 9, 10\nEuro Size: 40, 41, 42, 43, 44\nSizes in CM: 25.10, 25.70, 26.00, 26.70, 27.90\nPackage Dimension ( L X W X H in Cms): 29 X 17 X 10\nWeight (In Grms) : 1000\nCopy Product",
+//     "Name": "Joyride Men’s White Running Shoes",
+//     "PictureUrl": "images/products/nikeshoes.jpeg",
+//     "Price": 799,
+//     "ProductBrandId": 10,
+//     "ProductTypeId": 2,
+//     "RentedPrice": 250
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Design Details:\n\nA pair of red running shoes, has regular styling,\nLow boot\nEngineered mesh upper\nNITRO FOAM midsole\nPUMAGRIP rubber outsole\nLace closure for a snug fit\nTPU heel piece for stability\nReflective elements for visibility\nPUMA Formstrip at lateral side\nPUMA Cat Logo at toe\nPUMA Cat Logo at tongue\nCushioned footbed\nTextured and patterned outsole\nWarranty: 3 months\nWarranty provided by brand/manufacturer",
+//     "Name": "Puma\nMen Red Velocity Nitro Running Shoes",
+//     "PictureUrl": "images/products/redpuma.jpeg",
+//     "Price": 7149.00,
+//     "ProductBrandId": 9,
+//     "ProductTypeId": 2,
+//     "RentedPrice": 399
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Delve deep into Dolce & Gabbana's heritage. Featuring a sicilian carretto-print, these patent leather Bianca sandals will take you to the birthplace of the beloved Italian house. Featuring an all-over print, an open toe, a wedge heel, an ankle strap with a side buckle fastening and rhinestone embellishments.\n\nMade in Italy\nComposition:\nSole: Leather 100%\nLining: Sheepskin 90%, Calf Leather 10%\nOuter: Calf Leather 70%, Polyurethane 15%, Cotton 8%, Viscose 7%\nProduct measurements for size (EU)\n37\nHeel : 9 cm\nPlatform : 12.5 cm",
+//     "Name": "Dolce & Gabbana\nBianca sicilian carretto-print sandals",
+//     "PictureUrl": "images/products/dghighheels.jpeg",
+//     "Price": 5999.00,
+//     "ProductBrandId": 20,
+//     "ProductTypeId": 2,
+//     "RentedPrice": 1599.00
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Product Details:\n\nGross Weight : 104.80 grams\nNet Weight : 104.80 grams\nPurity : 22K",
+//     "Name": "Gold Set (22K)",
+//     "PictureUrl": "images/products/puregoldset.jpeg",
+//     "Price": 648702.00,
+//     "ProductBrandId": 19,
+//     "ProductTypeId": 4,
+//     "RentedPrice": 59999.00
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "PRODUCT DETAILS:\n\n22K Plain Gold Handmade Chain (56.79 gms) - Plain Gold Jewellery for Men by Jewelegance (JGS-2002-01649) (Handmade)\nNET GOLD WEIGHT(APPROX) : 56.79 gms\nPURITY : 22K\nSIZE : 19'6''\nTYPE : Plain Gold\nPIECES : 1\nAUDIENCE : Men",
+//     "Name": "MEN GOLD CHAIN",
+//     "PictureUrl": "images/products/menchain.jpeg",
+//     "Price": 217599.00,
+//     "ProductBrandId": 15,
+//     "ProductTypeId": 4,
+//     "RentedPrice": 47899.00
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Bracelet Dimension:\nHeight\t: 21 cm (8.27 inch)\nWidth\t: 7 mm (0.7 cm)\nDepth\t: 2 mm (0.2 cm)\n\nOther Specification:\nWeight : 7 Gram\nSize : Fixed\nLock Type : S Hook\nColor : Golden\nMaterial : Brass, 1 Gram Gold\nSurface Finish\t: Shining, Matt, Textured\nOccasion : Festival, Marriage / Wedding / Engagement, Party Wear, Birthday, Gift, Photography, Any Occasion\nStyle of Jewellery : Hip Hop, Vintage, Handmade, Nawabi Bracelet\nSales Package\t: 1 Bracelet",
+//     "Name": "1 Gram - 2 line Nawabi Delicate Design Gold Plated Bracelet for Men",
+//     "PictureUrl": "images/products/mensbracelet.jpeg",
+//     "Price": 3999.00,
+//     "ProductBrandId": 18,
+//     "ProductTypeId": 4,
+//     "RentedPrice": 999
+//   },
+//   {
+//     "CategoryId": 2,
+//     "Description": "Description:\n\nHandbags Type : Totes\nMain Material : PU\nShape : Casual Tote\nExterior : Silt Pocket\nModel Number : WB1318\nGender : Women\nLining Material : Polyester\nNumber of Handles/Straps : Two\nDecoration : None\nStyle : Fashion\nOccasion : Versatile\nClosure Type : zipper\nInterior : Interior Compartment\nInterior : Interior Zipper Pocket\nInterior : Interior Slot Pocket\nInterior : Cell Phone Pocket\nHardness : Soft\nPattern Type : Geometric\nItem Type : Handbags\nItem Type : Handbags\nType 1 : luxury designer women handbag shoulder bag\nType 2 : Geometric Diamond Totes\nCrossbody bag's size : 27*7*17.5 cm\nHandbag's size : 30*13.5*25.5 cm\nWallet's size : 18*10.5 cm",
+//     "Name": "women handbag luxury shoulder bag set folding Totes crossbody bag female purse and wallet for ladies luminous geometric",
+//     "PictureUrl": "images/products/polysterbag.jpeg",
+//     "Price": 2999.00,
+//     "ProductBrandId": 14,
+//     "ProductTypeId": 3,
+//     "RentedPrice": 999
+//   },
+//   {
+//     "CategoryId": 1,
+//     "Description": "Specification of Laptop/Folio Bag:\n\n2 main zipped enclosure\nConcealed zips\nPremium YKK sliders\nLightly padded Laptop sleeve which will fit 13 inches laptop with elastic straps to keep your device safely in place\nLightly padded I Pad/Conference Folder sleeve\nZipped compartment inside\n1 Compartment where you can carry your Kindle\n1 pockets where you can carry your Smart phone, Wallet and even phone chargers\nHas a trolley pocket with zips that can be used as a pocket to keep loose essential\nCan be put into trolley stands\nAdjustable and detachable straps with thick shoulder pads to give comfort while carrying\nComes in a briefcase styled box that has a handle to carry with ease and convenience\n\nDimensions: 15.5 X 11 X 3.5 (inches)\n\nSpecification of Men's Wallet:\nBi-fold style\n6 card compartments\n2 hidden compartments\n1 compartment to keep cash and bills\n1 coin compartment\nSize: LXBXH: 8.9x0.4x3.5“(Approx.)\n\nSpecification of Men's Belt:\n\nClamp Buckle\nSemi-Formal Belt\nFashionable Buckle Style",
+//     "Name": "GREAT DANE FOLIO, WALLET & BELT COMBO",
+//     "PictureUrl": "images/products/bagsetformen.jpeg",
+//     "Price": 21595.00,
+//     "ProductBrandId": 21,
+//     "ProductTypeId": 3,
+//     "RentedPrice": 1999.00
+//   }
+// ]
